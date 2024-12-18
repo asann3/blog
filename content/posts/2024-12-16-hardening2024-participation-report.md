@@ -1,4 +1,5 @@
 +++
+slug = 'hardening-2024-convolutions-report'
 date = '2024-12-16T09:59:59+09:00'
 title = 'Hardening 2024 Convolutions 参加記'
 +++
